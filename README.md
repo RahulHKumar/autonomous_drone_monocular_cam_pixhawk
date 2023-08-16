@@ -1,6 +1,6 @@
 # autonomous_drone_monocular_cam_pixhawk
 
-Autonomous robots are machines that can act without any human interference. When certain sensors and decision
+Autonomous robots are machines that can act without any human interference. When certain sensors and decision
 making algorithms are added to the control unit of a drone,
 the aerial vehicle is said to be autonomous. Such vehicles are
 capable of avoiding obstacles and correcting their local paths
